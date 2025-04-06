@@ -26,16 +26,19 @@ TAGE is a cutting-edge AI tool that transcribes, analyzes, and summarizes your m
 
 - **Frontend:** React + TailwindCSS + Framer Motion  
 - **Backend:** FastAPI  
-- **AI/NLP:** OpenAI Whisper, Hugging Face Transformers, spaCy, custom models  
-- **Visualization:** D3 / ChartJS (optional)
+- **AI/NLP:** OpenAI Whisper, Hugging Face Transformers, spaCy, custom models - BERT NER, BART Large model using CNN., VADERSENTIMENT, Google Deeptranslate.  
+- **Visualization:** Python, Pandas, React Js
 - **Animations:** Framer Motion, custom Lottie assets  
 - **Deployment:** Docker + GitHub Actions (optional CI/CD)
+- **DataBase:** Mongo DB
 
 ## 📸 Screenshots
 
 | Dashboard with Analysis | Animated Audio Waveform |
 |-------------------------|--------------------------|
-| ![Screenshot 1](./screenshots/dashboard.png) | ![Screenshot 2](./screenshots/waveform.png) |
+|<img width="1903" alt="Screenshot 2025-04-06 at 1 03 00 PM" src="https://github.com/user-attachments/assets/ba48396e-0b23-4777-9461-7669ccc7471f" />
+ | <img width="1905" alt="Screenshot 2025-04-06 at 1 14 57 PM" src="https://github.com/user-attachments/assets/158eefbb-3630-4e82-a345-7f19ff721350" />
+
 
 ## 📦 Getting Started
 
