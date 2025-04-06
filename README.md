@@ -36,8 +36,8 @@ TAGE is a cutting-edge AI tool that transcribes, analyzes, and summarizes your m
 
 | Dashboard with Analysis | Animated Audio Waveform |
 |-------------------------|--------------------------|
-|<img width="1903" alt="Screenshot 2025-04-06 at 1 03 00 PM" src="https://github.com/user-attachments/assets/ba48396e-0b23-4777-9461-7669ccc7471f" />
- | <img width="1905" alt="Screenshot 2025-04-06 at 1 14 57 PM" src="https://github.com/user-attachments/assets/158eefbb-3630-4e82-a345-7f19ff721350" />
+|!<img width="1903" alt="Screenshot 2025-04-06 at 1 03 00 PM" src="https://github.com/user-attachments/assets/ba48396e-0b23-4777-9461-7669ccc7471f" />
+ | !<img width="1905" alt="Screenshot 2025-04-06 at 1 14 57 PM" src="https://github.com/user-attachments/assets/158eefbb-3630-4e82-a345-7f19ff721350" />
 
 
 ## 📦 Getting Started
